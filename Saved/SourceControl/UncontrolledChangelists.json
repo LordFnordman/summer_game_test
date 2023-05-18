@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/zachb/Documents/Unreal Projects/Ricochet_UE52/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"C:/Users/zachb/Documents/Unreal Projects/Ricochet_UE52/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/Enemies/BP_EnemyAI.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RF/GGYAUH6PA2UYOYQW64W0FU.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/H6/7K13RQCSG4GA1HO7TSIU3L.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2Z/T0XZWT588H5JUK4TEKXALS.uasset"
 			]
 		}
 	]
