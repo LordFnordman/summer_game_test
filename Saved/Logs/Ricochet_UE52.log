@@ -3828,3 +3828,103 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get DashSpeed
 [2023.05.19-15.45.30:125][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 6.64 sec)
 [2023.05.19-15.45.30:128][ 22]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2023.05.19-15.45.30:128][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Game/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: ================================================
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Total job queries 3,598, among them cache hits 15 (0.42%)
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Tracking 3,581 distinct input hashes that result in 2,538 distinct outputs (70.87%)
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: RAM used: 59.50 MiB of 819.20 MiB budget. Usage: 7.26%
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Shaders Compiled: 3,581
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Jobs assigned 3,583, completed 3,581 (99.94%)
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Average time worker was idle: 53.04 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Time job spent in pending queue: average 179.27 s, longest 387.14 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Job execution time: average 8.81 s, max 19.27 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Job life time (pending + execution): average 188.18 s, max 390.27
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 420.58 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Jobs were issued in 478 batches (only local compilation was used), average 7.50 jobs/batch
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Average processing rate: 8.51 jobs/sec
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Total thread time: 3,195.566 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Total thread preprocess time: 102.505 s
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Percentage time preprocessing: 3.21%
+[2023.05.19-15.49.29:852][179]LogShaderCompilers: Display: Effective parallelization: 7.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.08 sec, max 10.33 sec, min 2.35 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.72 sec, max 7.17 sec, min 3.18 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.40 sec, max 4.03 sec, min 0.94 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.00 sec, max 2.46 sec, min 1.61 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.39% of total time (compiled  150 times, average 2.00 sec, max 2.46 sec, min 1.61 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.95% of total time (compiled   96 times, average 1.65 sec, max 2.24 sec, min 1.27 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.61% of total time (compiled  128 times, average 1.15 sec, max 1.70 sec, min 0.75 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.52% of total time (compiled  128 times, average 1.13 sec, max 1.39 sec, min 0.88 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.36% of total time (compiled   96 times, average 1.45 sec, max 1.91 sec, min 0.78 sec)
+[2023.05.19-15.49.29:853][179]LogShaderCompilers: Display: ================================================
+[2023.05.19-15.49.30:241][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.19-15.49.30:259][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.19-15.49.30:259][221]PIE: New page: PIE session: Alex (19 May 2023, 17:49:30)
+[2023.05.19-15.49.30:297][221]LogPlayLevel: Creating play world package: /Game/_Game/Levels/UEDPIE_0_Alex
+[2023.05.19-15.49.30:300][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003103s)
+[2023.05.19-15.49.30:300][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Game/Levels/Alex.Alex to /Game/_Game/Levels/UEDPIE_0_Alex.Alex (0.003152s)
+[2023.05.19-15.49.30:300][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.19-15.49.30:300][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.19-15.49.30:301][221]LogAIModule: Creating AISystem for world Alex
+[2023.05.19-15.49.30:301][221]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2023.05.19-15.49.30:363][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.19-15.49.30:366][221]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.19-15.49.30:366][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.19-15.49.30:366][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.19-15.49.30:367][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.19-15.49.30:367][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.19-15.49.30:367][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.19-15.49.30:368][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.19-15.49.30:433][221]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.19-15.49.30:433][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.19-15.49.30:433][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.19-15.49.30:433][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.19-15.49.30:436][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.05.19-15.49.30:436][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.05.19-15.49.30:437][221]LogInit: FAudioDevice initialized with ID 27.
+[2023.05.19-15.49.30:437][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.05.19-15.49.30:437][221]LogAudio: Display: Audio Device (ID: 27) registered with world 'Alex'.
+[2023.05.19-15.49.30:437][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.05.19-15.49.30:437][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.05.19-15.49.30:439][221]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.19-15.49.30:440][221]LogWorld: Bringing World /Game/_Game/Levels/UEDPIE_0_Alex.Alex up for play (max tick rate 0) at 2023.05.19-16.49.30
+[2023.05.19-15.49.30:440][221]LogWorld: Bringing up level for play took: 0.000587
+[2023.05.19-15.49.30:441][221]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.05.19-15.49.30:443][221]PIE: Server logged in
+[2023.05.19-15.49.30:443][221]PIE: Play in editor total start time 0.185 seconds.
+[2023.05.19-15.49.36:816][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.19-15.49.36:817][966]LogWorld: BeginTearingDown for /Game/_Game/Levels/UEDPIE_0_Alex
+[2023.05.19-15.49.36:817][966]LogWorld: UWorld::CleanupWorld for Alex, bSessionEnded=true, bCleanupResources=true
+[2023.05.19-15.49.36:817][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.19-15.49.36:819][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.19-15.49.36:821][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.19-15.49.36:865][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.19-15.49.36:865][966]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.05.19-15.49.36:865][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.19-15.49.36:867][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.19-15.49.36:870][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.19-15.49.36:872][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.19-15.49.36:902][967]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.19-15.50.09:791][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.19-15.50.14:666][362]LogSlate: Window 'Save Content' being destroyed
+[2023.05.19-15.50.21:300][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.19-15.50.21:302][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.19-15.50.21:338][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Game/Input/Actions/IA_Crouch" FILE="../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Crouch.uasset" SILENT=true
+[2023.05.19-15.50.21:338][ 68]LogSavePackage: Moving output files for package: /Game/_Game/Input/Actions/IA_Crouch
+[2023.05.19-15.50.21:338][ 68]LogSavePackage: Moving '../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Saved/IA_Crouch89C6206544E815650CC5F989EF71EEA7.tmp' to '../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Crouch.uasset'
+[2023.05.19-15.50.21:340][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Game/Input/Actions/IA_Sprint" FILE="../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Sprint.uasset" SILENT=true
+[2023.05.19-15.50.21:341][ 68]LogSavePackage: Moving output files for package: /Game/_Game/Input/Actions/IA_Sprint
+[2023.05.19-15.50.21:341][ 68]LogSavePackage: Moving '../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Saved/IA_Sprint39AD3BE649BBB4748EF9F7996625CB03.tmp' to '../../../../../../Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Sprint.uasset'
+[2023.05.19-15.50.21:346][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 6.68 sec)
+[2023.05.19-15.50.21:350][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.19-15.50.21:350][ 68]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/_Game/Input/Actions/IA_Crouch.IA_Crouch
+[2023.05.19-15.50.21:350][ 68]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/_Game/Input/Actions/IA_Sprint.IA_Sprint

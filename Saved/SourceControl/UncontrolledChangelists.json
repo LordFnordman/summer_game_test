@@ -26,6 +26,8 @@
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/Enums/MovementStates.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/Enums/EMovementStates.uasset",
+				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/zachb/Documents/Unreal Projects/Ricochet_UE52/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"V:/GitHub/Repositories/summer_game_test/Content/Enemies/BP_EnemyAI.uasset",
 				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RF/GGYAUH6PA2UYOYQW64W0FU.uasset",
