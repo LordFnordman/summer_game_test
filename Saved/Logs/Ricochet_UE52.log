@@ -5201,3 +5201,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.28-14.03.59:758][355]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2023.05.28-14.04.03:473][355]LogExit: Editor shut down
 [2023.05.28-14.04.03:894][355]LogExit: Transaction tracking system shut down
+[2023.05.28-14.04.05:889][355]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
