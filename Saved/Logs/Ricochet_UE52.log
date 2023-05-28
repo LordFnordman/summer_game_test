@@ -5180,3 +5180,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.28-14.03.45:374][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.05.28-14.03.46:282][355]LogStylusInput: Shutting down StylusInput subsystem.
 [2023.05.28-14.03.46:877][355]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.28-14.03.51:445][355]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.28-14.03.51:446][355]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.28-14.03.51:446][355]LogAudio: Display: Audio Device unregistered from world 'Daniel'.
+[2023.05.28-14.03.51:446][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.05.28-14.03.51:463][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.28-14.03.51:513][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.28-14.03.52:019][355]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.28-14.03.52:287][355]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.28-14.03.52:312][355]LogExit: Preparing to exit.
+[2023.05.28-14.03.53:392][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.28-14.03.59:675][355]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.28-14.03.59:758][355]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-14.04.03:473][355]LogExit: Editor shut down
+[2023.05.28-14.04.03:894][355]LogExit: Transaction tracking system shut down
