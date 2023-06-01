@@ -953,3 +953,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.01-15.10.17:537][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
 [2023.06.01-15.10.18:114][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2023.06.01-15.10.18:114][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.01-15.10.39:156][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.01-15.10.49:911][  0]LogCollectionManager: Loaded 0 collections in 0.010840 seconds
+[2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Saved/Collections/' took 0.02s
+[2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Content/Developers/Dan/Collections/' took 0.01s
+[2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Content/Collections/' took 0.01s
