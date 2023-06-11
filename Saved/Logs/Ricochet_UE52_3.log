@@ -958,3 +958,191 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Saved/Collections/' took 0.02s
 [2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Content/Developers/Dan/Collections/' took 0.01s
 [2023.06.01-15.10.49:928][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Content/Collections/' took 0.01s
+[2023.06.01-15.11.04:392][  0]LogClass: Warning: Property ArrayProperty UPresetSettingsProperties::ActivePresetCollectionsPaths defines MetaData key "MetaClass" which contains short type name "InteractiveToolsPresetCollectionAsset". Suggested pathname: "/Script/PresetAsset.InteractiveToolsPresetCollectionAsset". Module:ModelingToolsEditorMode File:Public/ModelingToolsEditorModeToolkit.h
+[2023.06.01-15.11.04:404][  0]LogClass: Display: 1 short type names in reflected types' MetaData
+[2023.06.01-15.11.04:601][  0]LogAutomationTest: Warning: LogClass: Property ArrayProperty UPresetSettingsProperties::ActivePresetCollectionsPaths defines MetaData key "MetaClass" which contains short type name "InteractiveToolsPresetCollectionAsset". Suggested pathname: "/Script/PresetAsset.InteractiveToolsPresetCollectionAsset". Module:ModelingToolsEditorMode File:Public/ModelingToolsEditorModeToolkit.h
+[2023.06.01-15.11.04:871][  0]LogEngine: Initializing Engine...
+[2023.06.01-15.11.05:121][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.01-15.11.05:367][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.067 s
+[2023.06.01-15.11.09:065][  0]LogTexture: Display: Waiting for textures to be ready 26/29 (/Engine/EngineMaterials/DefaultBokeh) ...
+[2023.06.01-15.11.09:106][  0]LogTexture: Display: Waiting for textures to be ready 27/29 (/Engine/EngineMaterials/PreintegratedSkinBRDF) ...
+[2023.06.01-15.11.09:159][  0]LogTexture: Display: Waiting for textures to be ready 28/29 (/Engine/EngineMaterials/WeightMapPlaceholderTexture) ...
+[2023.06.01-15.11.09:462][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.01-15.11.10:361][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.01-15.11.10:412][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-15.11.12:209][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.01-15.11.12:362][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.01-15.11.12:419][  0]LogInit: Texture streaming: Enabled
+[2023.06.01-15.11.13:550][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.2.0-25360045+++UE5+Release-5.2
+[2023.06.01-15.11.14:109][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.01-15.11.14:639][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.01-15.11.14:735][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.01-15.11.14:735][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.06.01-15.11.14:779][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.06.01-15.11.14:779][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.06.01-15.11.14:779][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.06.01-15.11.14:779][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.06.01-15.11.14:943][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.01-15.11.14:943][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.01-15.11.15:033][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-15.11.15:033][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-15.11.15:146][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-15.11.15:146][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-15.11.15:146][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-15.11.15:521][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.01-15.11.15:831][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.06.01-15.11.16:155][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-15.11.16:247][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-15.11.16:313][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-15.11.16:556][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.01-15.11.16:556][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.01-15.11.16:557][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.01-15.11.16:557][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.01-15.11.16:558][  0]LogInit: FAudioDevice initialized with ID 1.
+[2023.06.01-15.11.16:586][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.01-15.11.16:640][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.01-15.11.16:640][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2023.06.01-15.11.17:732][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.01-15.11.18:202][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.01-15.11.18:202][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.01-15.11.18:204][  0]LogLiveCoding: Display: First instance in process group "UE_Ricochet_UE52_0x541d1981", spawning console
+[2023.06.01-15.11.18:440][  0]LogInit: Undo buffer set to 32 MB
+[2023.06.01-15.11.18:440][  0]LogInit: Transaction tracking system initialized
+[2023.06.01-15.11.18:445][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.01-15.11.21:940][  0]LogSlate: Took 0.117269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.01-15.11.24:422][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/Alex': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/zachb': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'V:/GitHub': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'V:/GitHub': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'V:/GitHub': No such file or directory
+[2023.06.01-15.11.24:423][  0]SourceControl: Error: fatal: Invalid path 'V:/GitHub': No such file or directory
+[2023.06.01-15.11.24:423][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.06.01-15.11.24:426][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../summer_game_test/Saved/SourceControl/UncontrolledChangelists.json
+[2023.06.01-15.11.24:426][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.06.01-15.11.24:428][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.001773 seconds (Found 0 uncontrolled assets)
+[2023.06.01-15.11.25:376][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.01-15.11.26:133][  0]BlueprintLog: New page: Editor Load
+[2023.06.01-15.11.29:004][  0]LocalizationService: Localization service is disabled
+[2023.06.01-15.11.29:673][  0]TimingProfiler: Initialize
+[2023.06.01-15.11.29:676][  0]TimingProfiler: OnSessionChanged
+[2023.06.01-15.11.29:676][  0]LoadingProfiler: Initialize
+[2023.06.01-15.11.29:676][  0]LoadingProfiler: OnSessionChanged
+[2023.06.01-15.11.29:734][  0]NetworkingProfiler: Initialize
+[2023.06.01-15.11.29:743][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.01-15.11.29:743][  0]MemoryProfiler: Initialize
+[2023.06.01-15.11.29:743][  0]MemoryProfiler: OnSessionChanged
+[2023.06.01-15.11.34:280][  0]LogFileCache: Scanning file cache for directory 'D:/summer_game_test/Content/' took 0.03s
+[2023.06.01-15.11.40:873][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.01-15.11.45:098][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.01-15.11.46:023][  0]LogUnrealEdMisc: Loading editor; pre map load, took 392.978
+[2023.06.01-15.11.46:029][  0]Cmd: MAP LOAD FILE="../../../../../../summer_game_test/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.01-15.11.46:078][  0]LightingResults: New page: Lighting Build
+[2023.06.01-15.11.46:345][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-15.11.46:345][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-15.11.46:345][  0]MapCheck: New page: Map Check
+[2023.06.01-15.11.46:345][  0]LightingResults: New page: Lighting Build
+[2023.06.01-15.11.46:353][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-15.11.46:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.01-15.12.01:339][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Falling.FP_Falling
+[2023.06.01-15.12.01:358][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Jump.FP_Jump
+[2023.06.01-15.12.01:359][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Idle.FP_Idle
+[2023.06.01-15.12.01:380][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Falling.FP_Rifle_Falling
+[2023.06.01-15.12.01:389][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Land.FP_Land
+[2023.06.01-15.12.01:389][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Idle.FP_Rifle_Idle
+[2023.06.01-15.12.01:394][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+[2023.06.01-15.12.01:467][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+[2023.06.01-15.12.01:541][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd
+[2023.06.01-15.12.01:544][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+[2023.06.01-15.12.01:747][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.01-15.12.01:915][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.06.01-15.12.01:915][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.01-15.12.01:915][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-15.12.01:916][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.01-15.12.02:013][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.01-15.12.02:013][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.01-15.12.02:031][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.01-15.12.24:660][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire
+[2023.06.01-15.12.26:373][  0]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.06.01-15.12.26:427][  0]LogWorldPartition: Display: WorldPartition initialize took 24.4 sec
+[2023.06.01-15.12.27:409][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.01-15.12.27:609][  0]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RecastNavMesh_UAID_A036BCB8BC65CD8301-Default is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2Z/T0XZWT588H5JUK4TEKXALS.PackageMetaData in its package
+[2023.06.01-15.12.27:637][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.01-15.12.27:638][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.01-15.12.27:934][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 296.713ms to complete.
+[2023.06.01-15.12.27:934][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 41.906
+[2023.06.01-15.12.28:504][  0]LogUnrealEdMisc: Total Editor Startup Time, took 435.460
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: ================================================
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 409.60 MiB budget. Usage: 0.00%
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.01-15.12.28:504][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.01-15.12.28:505][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.01-15.12.28:505][  0]LogShaderCompilers: Display: ================================================
+[2023.06.01-15.12.29:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-15.12.29:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-15.12.29:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-15.12.29:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-15.12.30:848][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.01-15.12.30:881][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:033][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:162][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:213][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:255][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:303][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:431][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:432][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.31:457][  0]LogPakFile: Display: Mounted Pak file 'D:/Program Files/EpicGames/UE_5.2/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.01-15.12.34:677][  0]LogSlate: Took 0.028530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.01-15.12.34:701][  0]LogSlate: Took 0.021052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.01-15.12.34:709][  0]LogSlate: Took 0.007458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.01-15.12.34:874][  0]LogViewport: Scene viewport resized to 1131x797, mode Windowed.
+[2023.06.01-15.12.35:435][  0]LogSlate: Took 0.043049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.01-15.12.35:498][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.01-15.12.37:202][  0]LogStall: Startup...
+[2023.06.01-15.12.37:203][  0]LogStall: Startup complete.
+[2023.06.01-15.12.37:344][  0]LogLoad: (Engine Initialization) Total time: 444.30 seconds
+[2023.06.01-15.12.37:344][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.01-15.12.37:483][  0]LogAssetRegistry: AssetRegistryGather time 7.0998s: AssetDataDiscovery 3.2923s, AssetDataGather 3.7812s, StoreResults 0.0263s.
+[2023.06.01-15.12.37:616][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.06.01-15.12.37:669][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.01-15.12.37:681][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.01-15.12.37:847][  0]LogViewport: Scene viewport resized to 1131x748, mode Windowed.
+[2023.06.01-15.12.37:889][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.01-15.21.45:460][638]LogHttp: Warning: 00000598DA23F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B18EAF53C-43C0-C603-A4B3-AC9F8C2905E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=e7934a1a4b3a5122ae4f349776a0d8ae%7C3095c045710d4e61b8d95a76be4cd0f3%7C0b4b0dc4-53f0-44d6-a502-278bee71a0ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 0 (Found bundle for host: 0x59888160000 [serially])
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.144.114.132) port 443 (#0))
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: 00000598DA23F500: libcurl info message cache 7 (Closing connection 0)
+[2023.06.01-15.21.45:615][638]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B18EAF53C-43C0-C603-A4B3-AC9F8C2905E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=e7934a1a4b3a5122ae4f349776a0d8ae%7C3095c045710d4e61b8d95a76be4cd0f3%7C0b4b0dc4-53f0-44d6-a502-278bee71a0ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.01-15.45.36:708][931]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.06.01-15.45.36:729][931]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.06.01-16.10.05:434][336]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.492 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-16.17.54:965][745]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.06.01-17.10.05:202][134]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.259 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-18.10.05:245][921]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.302 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-19.10.05:212][718]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.268 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-20.10.05:261][511]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.315 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-21.10.05:222][310]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.276 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
+[2023.06.01-22.10.05:165][108]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.205 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18586 files in 17384 folders with total size 1076 MiB.
