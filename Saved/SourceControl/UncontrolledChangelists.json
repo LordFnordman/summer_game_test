@@ -36,6 +36,8 @@
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/Interfaces/BPI_InteractEnviroment.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/FunctionLibraries/BFL_Environment.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/TestBlueprints/BallDirectionTest.uasset",
+				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/TestBlueprints/DestroyArea.uasset",
+				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Materials/TestDestroy.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/ActorComponents/BounceArea.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/KnockbackableThing.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/FirstPerson/Input/IMC_Default.uasset",
