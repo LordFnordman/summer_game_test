@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zachb/Documents/Unreal Projects/Ricochet_UE52/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/Enemies/BP_EnemyAI.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RF/GGYAUH6PA2UYOYQW64W0FU.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2Z/T0XZWT588H5JUK4TEKXALS.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/BP_ProceduralSpawningManager.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Levels/Bar.umap",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/BP_EnemyBase.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/BP_EnemyBrute.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/BP_EnemyStandard.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/BP_EnemyRusher.uasset",
+				"V:/GitHub/Repositories/summer_game_test/Content/_Game/Blueprints/ZachEnemyAI/M_SpawnerMat.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Levels/Alex.umap",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Input/IMC_Default.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
@@ -48,11 +59,7 @@
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/FirstPerson/Input/Actions/IA_Look.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
 				"C:/Users/Alex/Documents/GitHub/summer_game_test/Content/_Game/Blueprints/Enums/MovementStates.uasset",
-				"C:/Users/zachb/Documents/Unreal Projects/Ricochet_UE52/Content/StarterContent/Materials/M_AssetPlatform.uasset",
-				"V:/GitHub/Repositories/summer_game_test/Content/Enemies/BP_EnemyAI.uasset",
-				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RF/GGYAUH6PA2UYOYQW64W0FU.uasset",
-				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/H6/7K13RQCSG4GA1HO7TSIU3L.uasset",
-				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2Z/T0XZWT588H5JUK4TEKXALS.uasset"
+				"V:/GitHub/Repositories/summer_game_test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/H6/7K13RQCSG4GA1HO7TSIU3L.uasset"
 			]
 		}
 	]
